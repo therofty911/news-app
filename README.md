@@ -1,3 +1,7 @@
+alert:
+jika terkadang saat sudah logout button nya masih ada silahkan coba refresh terima kasih :)
+
+
 # news-vue
 
 ## Project setup
