@@ -1,6 +1,10 @@
 alert:
 jika terkadang saat sudah logout button nya masih ada silahkan coba refresh terima kasih :)
 
+## Jika sudah clone github ini silahkan npm install supaya node module nya terdownload
+```
+npm install
+```
 
 # news-vue
 
