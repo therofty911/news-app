@@ -6,7 +6,7 @@ jika terkadang saat sudah logout button nya masih ada silahkan coba refresh teri
 npm install -g @vue/cli
 ```
 
-## Jika sudah clone github ini silahkan npm install supaya node module nya terdownload
+## Jika sudah clone github ini silahkan npm install untuk node module agar ter-install
 ```
 npm install
 ```
