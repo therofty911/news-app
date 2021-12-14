@@ -18,12 +18,12 @@ export default {
       this.$gAuth
         .signIn()
         .then(GoogleUser => {
-          // on success do something
-          console.log('GoogleUser', GoogleUser)
-          console.log('getId', GoogleUser.getId())
-          console.log('basicprofile', GoogleUser.getBasicProfile().getName())
-          console.log('getBasicProfile', GoogleUser.getBasicProfile())
-          console.log('getAuthResponse', GoogleUser.getAuthResponse())
+          // saat sudah sukses menjalankan
+          // console.log('GoogleUser', GoogleUser)
+          // console.log('getId', GoogleUser.getId())
+          // console.log('basicprofile', GoogleUser.getBasicProfile().getName())
+          // console.log('getBasicProfile', GoogleUser.getBasicProfile())
+          // console.log('getAuthResponse', GoogleUser.getAuthResponse())
           var userInfo = {
             loginType: 'google',
             google: {

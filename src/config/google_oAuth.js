@@ -28,7 +28,7 @@ var googleAuth = (function () {
 
   function Auth () {
     if (!(this instanceof Auth))
-    return new Auth()
+      return new Auth()
     this.GoogleAuth = null /* window.gapi.auth2.getAuthInstance() */
     this.isAuthorized = false
     this.isInit = false
