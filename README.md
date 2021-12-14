@@ -16,8 +16,17 @@ npm install
 npm run serve
 ```
 
+# PREVIEW
 
-========================================================================================
+### Home Page
+![This is an image](https://cdn.discordapp.com/attachments/692662918562578513/920312945571946536/firefox_3ZOZWr00bE.png)
+
+### Blog Page - different API
+![This is an image](https://cdn.discordapp.com/attachments/692662918562578513/920313142146367588/firefox_2DzDvvfSlX.png)
+
+### Login page - with google
+![This is an image](https://cdn.discordapp.com/attachments/692662918562578513/920313300254871572/firefox_AvpKV8RIDg.png)
+
 # news-vue
 
 ## Project setup
